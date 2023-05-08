@@ -39,7 +39,7 @@ CRUD là các operation cơ bản nhất của các web hiện hành, vì vậy,
             <h1>
                 <%= @article.title %>
             </h1>
-
+â
             <p>
                 <%= @article.body %>
             </p>
